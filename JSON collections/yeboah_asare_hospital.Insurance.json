@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6499c50405bab814409a395c"
+  },
+  "insurance_id": 1,
+  "patient_id": 1,
+  "insurance_provider": "Insurance Provider 1",
+  "policy_number": "Policy Number 1",
+  "expiration_date": "2024-01-10"
+},
+{
+  "_id": {
+    "$oid": "6499c57105bab814409a395e"
+  },
+  "insurance_id": 2,
+  "patient_id": 2,
+  "insurance_provider": "Insurance Provider 2",
+  "policy_number": "Policy Number 2",
+  "expiration_date": "2024-02-20"
+},
+{
+  "_id": {
+    "$oid": "6499c59c05bab814409a3960"
+  },
+  "insurance_id": 3,
+  "patient_id": 3,
+  "insurance_provider": "Insurance Provider 3",
+  "policy_number": "Policy Number 3",
+  "expiration_date": "2024-03-30"
+}]

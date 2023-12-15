@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6499b92c05bab814409a3924"
+  },
+  "room_id": 1,
+  "doctor_id": 1,
+  "patient_id": 1,
+  "consultation_date": "2023-01-01"
+},
+{
+  "_id": {
+    "$oid": "6499b9e905bab814409a3927"
+  },
+  "room_id": 2,
+  "doctor_id": 2,
+  "patient_id": 2,
+  "consultation_date": "2023-02-02"
+},
+{
+  "_id": {
+    "$oid": "6499ba0e05bab814409a3929"
+  },
+  "room_id": 3,
+  "doctor_id": 3,
+  "patient_id": 3,
+  "consultation_date": "2023-03-03"
+}]

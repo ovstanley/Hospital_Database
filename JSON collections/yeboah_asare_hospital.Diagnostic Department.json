@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6499bcfe05bab814409a393a"
+  },
+  "diagnostic_id": 1,
+  "referral_id": 1,
+  "patient_id": 1,
+  "lab_test": "Lab Test 1",
+  "imaging": "Imaging 1"
+},
+{
+  "_id": {
+    "$oid": "6499bd2805bab814409a393c"
+  },
+  "diagnostic_id": 2,
+  "referral_id": 2,
+  "patient_id": 2,
+  "lab_test": "Lab Test 2",
+  "imaging": "Imaging 2"
+},
+{
+  "_id": {
+    "$oid": "6499bd4805bab814409a393e"
+  },
+  "diagnostic_id": 3,
+  "referral_id": 3,
+  "patient_id": 3,
+  "lab_test": "Lab Test 3",
+  "imaging": "Imaging 3"
+}]

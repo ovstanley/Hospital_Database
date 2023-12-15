@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6499beb805bab814409a3941"
+  },
+  "ward_id": 1,
+  "patient_id": 1,
+  "admission_date": "2023-01-01",
+  "discharge_date": "2023-04-04",
+  "imaging": "Imaging 1"
+},
+{
+  "_id": {
+    "$oid": "6499c00b05bab814409a3943"
+  },
+  "ward_id": 2,
+  "patient_id": 2,
+  "admission_date": "2023-02-02",
+  "discharge_date": "2023-05-05",
+  "imaging": "Imaging 2"
+},
+{
+  "_id": {
+    "$oid": "6499c08405bab814409a3945"
+  },
+  "ward_id": 3,
+  "patient_id": 3,
+  "admission_date": "2023-03-03",
+  "discharge_date": "2023-06-06",
+  "imaging": "Imaging 3"
+}]

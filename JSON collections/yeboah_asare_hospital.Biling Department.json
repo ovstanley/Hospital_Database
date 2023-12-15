@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6499c17805bab814409a3948"
+  },
+  "billing_id": 1,
+  "patient_id": 1,
+  "amount_due": "200.00",
+  "payment_status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "6499c1b305bab814409a394a"
+  },
+  "billing_id": 2,
+  "patient_id": 2,
+  "amount_due": "170.00",
+  "payment_status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6499c1ed05bab814409a394c"
+  },
+  "billing_id": 3,
+  "patient_id": 3,
+  "amount_due": "420.00",
+  "payment_status": "Paid"
+}]

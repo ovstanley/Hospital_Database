@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6499bad905bab814409a392c"
+  },
+  "referral_id": 1,
+  "doctor_id": 1,
+  "patient_id": 1,
+  "referral_date": "2023-01-01",
+  "referral_type": "Cardiology"
+},
+{
+  "_id": {
+    "$oid": "6499bb0205bab814409a392e"
+  },
+  "referral_id": 2,
+  "doctor_id": 2,
+  "patient_id": 2,
+  "referral_date": "2023-02-02",
+  "referral_type": "Pediatrics"
+},
+{
+  "_id": {
+    "$oid": "6499bb3e05bab814409a3930"
+  },
+  "referral_id": 3,
+  "doctor_id": 3,
+  "patient_id": 3,
+  "referral_date": "2023-03-03",
+  "referral_type": "Dermatology"
+}]

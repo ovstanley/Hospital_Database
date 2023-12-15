@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6499b47005bab814409a3910"
+  },
+  "doctor_id": 1,
+  "first_name": "Dr. Stan",
+  "last_name": "Oboi",
+  "specialization": "Cardiology",
+  "contact_number": "0249966558",
+  "address": "Kokoben Estate street 001"
+},
+{
+  "_id": {
+    "$oid": "6499b4c705bab814409a3912"
+  },
+  "doctor_id": 2,
+  "first_name": "Dr. Sarah",
+  "last_name": "Mensah",
+  "specialization": "Pediatrics",
+  "contact_number": "0256622487",
+  "address": "Kokoben Estate street 024"
+},
+{
+  "_id": {
+    "$oid": "6499b58205bab814409a3915"
+  },
+  "doctor_id": 3,
+  "first_name": "Dr. Mark",
+  "last_name": "Sepenu",
+  "specialization": "Dermatology",
+  "contact_number": "0278548962",
+  "address": "GREEN Estate street al Road"
+}]

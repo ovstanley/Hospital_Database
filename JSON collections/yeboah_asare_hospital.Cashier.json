@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6499c2d105bab814409a394f"
+  },
+  "cashier_id": 1,
+  "billing_id": 1,
+  "payment_date": "2023-04-04",
+  "payment_method": "Cash"
+},
+{
+  "_id": {
+    "$oid": "6499c2f305bab814409a3951"
+  },
+  "cashier_id": 2,
+  "billing_id": 2,
+  "payment_date": "2023-05-05",
+  "payment_method": "Credit Card"
+},
+{
+  "_id": {
+    "$oid": "6499c32105bab814409a3953"
+  },
+  "cashier_id": 3,
+  "billing_id": 3,
+  "payment_date": "2023-06-06",
+  "payment_method": "Mobile money"
+}]

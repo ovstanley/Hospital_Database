@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6499b08705bab814409a3903"
+  },
+  "Patient_ID": 1,
+  "first_name": "Kal",
+  "Gender": "Female",
+  "last_name": "Deborah",
+  "date_of_birth": "1998-06-15",
+  "gender": "Female",
+  "contact_number": "0214456589",
+  "address": "Bankoe street 24"
+},
+{
+  "_id": {
+    "$oid": "6499b19105bab814409a3907"
+  },
+  "Patient_ID": 2,
+  "first_name": "Kofi",
+  "last_name": "Addae",
+  "date_of_birth": "1990-06-15",
+  "gender": "Male",
+  "contact_number": "0214456589",
+  "address": "Ayeduase street 101"
+},
+{
+  "_id": {
+    "$oid": "6499b23f05bab814409a3909"
+  },
+  "Patient_ID": 3,
+  "first_name": "Abigail",
+  "last_name": "Mensah",
+  "date_of_birth": "1995-10-10",
+  "gender": "Female",
+  "contact_number": "0255577895",
+  "address": "Kotei street 100"
+}]

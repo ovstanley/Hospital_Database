@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6499bbd905bab814409a3933"
+  },
+  "pharmacy_id": 1,
+  "referral_id": 1,
+  "patient_id": 1,
+  "prescription": "Prescription 1",
+  "medication": "Medication 1"
+},
+{
+  "_id": {
+    "$oid": "6499bbf705bab814409a3935"
+  },
+  "pharmacy_id": 2,
+  "referral_id": 2,
+  "patient_id": 2,
+  "prescription": "Prescription 2",
+  "medication": "Medication 2"
+},
+{
+  "_id": {
+    "$oid": "6499bc2005bab814409a3937"
+  },
+  "pharmacy_id": 3,
+  "referral_id": 3,
+  "patient_id": 3,
+  "prescription": "Prescription 3",
+  "medication": "Medication 3"
+}]
